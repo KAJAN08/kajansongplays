@@ -1,1 +1,1 @@
-worker: python3 songplaysbotkajan.py
+worker: python3 kajansongplays.py
