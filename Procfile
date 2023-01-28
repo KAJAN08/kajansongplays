@@ -1,1 +1,1 @@
-worker@1: python3 SongPlayRoBot.py
+worker: python3 kajansongplays.py
